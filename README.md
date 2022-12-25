@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siddharth114
-- 👀 I’m interested in Data Science, machine learning, software development
+- 👀 I’m interested in Data Science, machine learning, blockchain development
 - 🌱 I’m currently majoring in math
 - 💞️ I’m looking to collaborate on any project that helps me learn/better my skills
 - 📫 How to reach me:
