@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Siddharth114
-- 👀 I’m interested in Data Science, machine learning
-- 🌱 I’m currently majoring in math
-- 📫 How to reach me:
 Mail  - 2004sid@gmail.com
 
 <!---
